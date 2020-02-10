@@ -1,5 +1,22 @@
-# IPweek1
-My personal project for week 1
-Author- Timothy Lidede
-Includes information on my education, my background and my interests
-Includes an image of Timothy Lidede
+# INDEPENDENT PROJECT WEEK 1
+
+This is my first official Independent Project at Moringa School
+
+# AUTHOR NAME
+
+Author name is Timothy Lidede
+
+# DETAILS ON THE PROJECT
+
+Project entails information about myself including my education, my background and my hobbies. It also has an image of myself attached to it
+
+# PROJECT SETUP INSTRUCTIONS
+
+
+
+
+# LINK TO LIVE SITE ON GITHUB PAGES
+
+
+
+
